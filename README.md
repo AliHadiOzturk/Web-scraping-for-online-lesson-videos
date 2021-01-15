@@ -1,6 +1,6 @@
 # About
 
-This project created for downloading the lesson videos from Ankara University online lesson platform which includes [BaclkBoard](https://www.blackboard.com) . Made with python and selenium package
+This project created for downloading the lesson videos from Ankara University online lesson platform which includes [BlackBoard](https://www.blackboard.com) . Made with python and selenium package
 
 
 ## Installation
