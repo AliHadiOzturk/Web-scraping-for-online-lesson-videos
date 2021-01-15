@@ -17,5 +17,6 @@ pip install selenium
 
 username.send_keys(USERNAME) #change this line for your username
 pwd.send_keys(PASSWORD) #change this line for your password
+filesPath = "" #change this line for downloaded videos locations
 
 ```
