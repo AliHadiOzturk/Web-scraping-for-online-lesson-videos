@@ -54,7 +54,7 @@ def find_page_links(driver):
         pass
 
 
-filesPath = "C:/Users/aliha/Desktop/Dersler/"
+filesPath = ""
 
 driver = webdriver.Chrome("chromedriver.exe")
 driver.get("https://ekampus.ankara.edu.tr/login/index.php")
